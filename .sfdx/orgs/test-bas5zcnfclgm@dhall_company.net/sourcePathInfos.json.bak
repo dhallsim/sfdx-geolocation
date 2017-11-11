@@ -36,10 +36,10 @@
             "sourcePath": "/Users/dhall/code/Salesforce/trailhead/sfdx/geolocation/force-app/main/default",
             "isDirectory": true,
             "isMetadataFile": false,
-            "size": 224,
-            "modifiedTime": 1510436901874,
-            "changeTime": 1510436901874,
-            "contentHash": "21561c98dfd0fecdde9706dde46e536247b50732"
+            "size": 288,
+            "modifiedTime": 1510437197331,
+            "changeTime": 1510437197331,
+            "contentHash": "d8417619f8cb74acd7a6c2b95aaad38138801297"
         }
     ],
     [
@@ -47,14 +47,13 @@
         {
             "sourcePath": "/Users/dhall/code/Salesforce/trailhead/sfdx/geolocation/force-app/main/default/aura",
             "isDirectory": true,
-            "size": 64,
-            "modifiedTime": 1510435580324,
-            "changeTime": 1510435580324,
-            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "size": 96,
+            "modifiedTime": 1510437041215,
+            "changeTime": 1510437041215,
+            "contentHash": "4c01eade869b72bbd66cfccee570a524d94497f7",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isWorkspace": false
         }
     ],
     [
@@ -62,14 +61,13 @@
         {
             "sourcePath": "/Users/dhall/code/Salesforce/trailhead/sfdx/geolocation",
             "isDirectory": true,
-            "size": 224,
-            "modifiedTime": 1510435696999,
-            "changeTime": 1510435696999,
-            "contentHash": "3dae32c665681fc89661729c131899b7036b97f4",
+            "size": 288,
+            "modifiedTime": 1510436699028,
+            "changeTime": 1510436699028,
+            "contentHash": "4e7c1dce819cac4f989b59112851b4cd18059c1a",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": true,
-            "isArtifactRoot": false
+            "isWorkspace": true
         }
     ],
     [
@@ -218,40 +216,222 @@
     [
         "/Users/dhall/code/Salesforce/trailhead/sfdx/geolocation/force-app/main/default/classes",
         {
-            "state": "u",
             "sourcePath": "/Users/dhall/code/Salesforce/trailhead/sfdx/geolocation/force-app/main/default/classes",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 128,
             "modifiedTime": 1510436901889,
             "changeTime": 1510436901889,
-            "contentHash": "c1cd31a661b28d7140627a94a16c864875d58a42"
+            "contentHash": "c1cd31a661b28d7140627a94a16c864875d58a42",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/dhall/code/Salesforce/trailhead/sfdx/geolocation/force-app/main/default/classes/AccountController.cls",
         {
-            "state": "u",
             "sourcePath": "/Users/dhall/code/Salesforce/trailhead/sfdx/geolocation/force-app/main/default/classes/AccountController.cls",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 293,
             "modifiedTime": 1510436988297,
             "changeTime": 1510436988297,
-            "contentHash": "8fde073151082df06ee0dfccf1250ef72d79271e"
+            "contentHash": "8fde073151082df06ee0dfccf1250ef72d79271e",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/dhall/code/Salesforce/trailhead/sfdx/geolocation/force-app/main/default/classes/AccountController.cls-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/dhall/code/Salesforce/trailhead/sfdx/geolocation/force-app/main/default/classes/AccountController.cls-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 195,
             "modifiedTime": 1510436901889,
             "changeTime": 1510436901889,
-            "contentHash": "cc0a2dcbacbf3621f3b3ac19658879090926c15f"
+            "contentHash": "cc0a2dcbacbf3621f3b3ac19658879090926c15f",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/dhall/code/Salesforce/trailhead/sfdx/geolocation/force-app/main/default/aura/AccountLocator",
+        {
+            "sourcePath": "/Users/dhall/code/Salesforce/trailhead/sfdx/geolocation/force-app/main/default/aura/AccountLocator",
+            "isDirectory": true,
+            "size": 256,
+            "modifiedTime": 1510437041217,
+            "changeTime": 1510437041217,
+            "contentHash": "f6bd7d3a23295ae7ef7a6f8a51c67ae972d48a28",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/dhall/code/Salesforce/trailhead/sfdx/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
+        {
+            "sourcePath": "/Users/dhall/code/Salesforce/trailhead/sfdx/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
+            "isDirectory": false,
+            "size": 156,
+            "modifiedTime": 1510437058433,
+            "changeTime": 1510437058433,
+            "contentHash": "f3f590857881ca3c0ed746a2c23effadffed7691",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/dhall/code/Salesforce/trailhead/sfdx/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/dhall/code/Salesforce/trailhead/sfdx/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 246,
+            "modifiedTime": 1510437041215,
+            "changeTime": 1510437041215,
+            "contentHash": "652875ccc6ba6e08028b1aa51773d72e376e436f",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/dhall/code/Salesforce/trailhead/sfdx/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.css",
+        {
+            "sourcePath": "/Users/dhall/code/Salesforce/trailhead/sfdx/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.css",
+            "isDirectory": false,
+            "size": 115,
+            "modifiedTime": 1510437066887,
+            "changeTime": 1510437066887,
+            "contentHash": "afd32df358918354026afa0dcc55797cb27b2757",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/dhall/code/Salesforce/trailhead/sfdx/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorController.js",
+        {
+            "sourcePath": "/Users/dhall/code/Salesforce/trailhead/sfdx/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorController.js",
+            "isDirectory": false,
+            "size": 65,
+            "modifiedTime": 1510437041216,
+            "changeTime": 1510437041216,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/dhall/code/Salesforce/trailhead/sfdx/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorHelper.js",
+        {
+            "sourcePath": "/Users/dhall/code/Salesforce/trailhead/sfdx/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1510437041216,
+            "changeTime": 1510437041216,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/dhall/code/Salesforce/trailhead/sfdx/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorRenderer.js",
+        {
+            "sourcePath": "/Users/dhall/code/Salesforce/trailhead/sfdx/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1510437041217,
+            "changeTime": 1510437041217,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/dhall/code/Salesforce/trailhead/sfdx/geolocation/force-app/main/default/tabs/Account_Locator.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/dhall/code/Salesforce/trailhead/sfdx/geolocation/force-app/main/default/tabs/Account_Locator.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 267,
+            "modifiedTime": 1510437197324,
+            "changeTime": 1510437197324,
+            "contentHash": "25b4dfb9d3c91e29d9d332b9c938caefecaf96db"
+        }
+    ],
+    [
+        "/Users/dhall/code/Salesforce/trailhead/sfdx/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/dhall/code/Salesforce/trailhead/sfdx/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 17256,
+            "modifiedTime": 1510437197337,
+            "changeTime": 1510437197337,
+            "contentHash": "ffd6d3373d5b87a5161302a5ae3e9f5cf2bcb0b4"
+        }
+    ],
+    [
+        "/Users/dhall/code/Salesforce/trailhead/sfdx/geolocation/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/dhall/code/Salesforce/trailhead/sfdx/geolocation/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4461,
+            "modifiedTime": 1510437197340,
+            "changeTime": 1510437197340,
+            "contentHash": "73ad8397e6863de42f0fd812a59698623ba7af38"
+        }
+    ],
+    [
+        "/Users/dhall/code/Salesforce/trailhead/sfdx/geolocation/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/dhall/code/Salesforce/trailhead/sfdx/geolocation/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4797,
+            "modifiedTime": 1510437197343,
+            "changeTime": 1510437197343,
+            "contentHash": "8cf9ff9aa4943adae1d59512fb0d4ca8b2dcfbf9"
+        }
+    ],
+    [
+        "/Users/dhall/code/Salesforce/trailhead/sfdx/geolocation/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/dhall/code/Salesforce/trailhead/sfdx/geolocation/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4457,
+            "modifiedTime": 1510437197345,
+            "changeTime": 1510437197345,
+            "contentHash": "b07203be5b54f0b386be1f56467864b68e67c390"
+        }
+    ],
+    [
+        "/Users/dhall/code/Salesforce/trailhead/sfdx/geolocation/force-app/main/default/tabs",
+        {
+            "state": "u",
+            "sourcePath": "/Users/dhall/code/Salesforce/trailhead/sfdx/geolocation/force-app/main/default/tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1510437197324,
+            "changeTime": 1510437197324,
+            "contentHash": "e07904c1411fc5069c20a25aedc7d6bdcade7b1f"
+        }
+    ],
+    [
+        "/Users/dhall/code/Salesforce/trailhead/sfdx/geolocation/force-app/main/default/profiles",
+        {
+            "state": "u",
+            "sourcePath": "/Users/dhall/code/Salesforce/trailhead/sfdx/geolocation/force-app/main/default/profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1510437197345,
+            "changeTime": 1510437197345,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
         }
     ]
 ]
